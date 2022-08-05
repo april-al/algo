@@ -4,8 +4,8 @@ def factorial(n: int):
         res = res * i
     return res
 
-v = 5
-print(factorial(v))
+v = 100
+# print(factorial(v))
 
 
 def factorial_rec(n: int):
